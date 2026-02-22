@@ -207,6 +207,10 @@ npm run seed:users  # Create test users
 cd ..
 ```
 
+**Test Credentials:** See [TEST_CREDENTIALS.md](TEST_CREDENTIALS.md) for login credentials.
+
+**Default Password:** `Password123!` for all test accounts.
+
 ### Running the Application
 
 **Option A: Run Both Client and Server (from root directory)**
