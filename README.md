@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License" />
+    <a href="https://github.com/university-course-registration/university-course-registration/actions/workflows/ci.yml">
+      <img src="https://github.com/university-course-registration/university-course-registration/actions/workflows/ci.yml/badge.svg" alt="CI/CD Pipeline" />
+    </a>
   </p>
 
   <br />
@@ -248,7 +251,7 @@ The CI/CD pipeline is defined in `.github/workflows/ci.yml`
 
 ### Status Badge
 
-![CI Status](https://github.com/your-username/university-course-registration/workflows/CI/badge.svg)
+[![CI/CD Pipeline](https://github.com/university-course-registration/university-course-registration/actions/workflows/ci.yml/badge.svg)](https://github.com/university-course-registration/university-course-registration/actions/workflows/ci.yml)
 
 ---
 
