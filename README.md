@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License" />
-    <img src="https://github.com/university-course-registration/university-course-registration/workflows/CI/badge.svg" alt="CI Status" />
+    <img src="https://github.com/your-username/university-course-registration/workflows/CI/badge.svg" alt="CI Status" />
   </p>
 
   <br />
@@ -82,8 +82,8 @@ Follow these instructions to set up the project locally.
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/university-course-registration/university-course-registration.git
-cd university-course-registration
+git clone https://github.com/your-username/university-course-reg.git
+cd university-course-reg
 ```
 
 #### 2. Install Dependencies (Root, Server, and Client)
@@ -254,7 +254,7 @@ The CI/CD pipeline is defined in `.github/workflows/ci.yml`
 
 ### Status Badge
 
-![CI Status](https://github.com/university-course-registration/university-course-registration/workflows/CI/badge.svg)
+![CI Status](https://github.com/your-username/university-course-registration/workflows/CI/badge.svg)
 
 ---
 
@@ -318,6 +318,8 @@ This project follows an open-source collaborative development model as per the c
 | **Contributors** | Write code, documentation, and submit improvements | All team members |
 
 ### Team Members
+
+> **Note**: Update this section with actual team member names and their assigned roles
 
 | Name | Registration Number | Role(s) | GitHub Username |
 |------|-------------------|---------|-----------------|
